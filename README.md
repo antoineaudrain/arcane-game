@@ -1,5 +1,5 @@
 # arcane-game
-2D Terraria like game written in C++ and SDL
+SDL and C++ 2d platform game(terraria like) modable.
 
 to compile and run the game
 ```
